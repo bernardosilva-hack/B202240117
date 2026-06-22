@@ -14,7 +14,7 @@ public class StudentInfo {
 
         System.out.print("Enter Age: ");
         int age = input.nextInt();
-        input.nextLine(); // consume newline
+        input.nextLine();
 
         System.out.print("Enter Gender: ");
         String gender = input.nextLine();
